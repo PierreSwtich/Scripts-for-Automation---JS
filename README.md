@@ -2,4 +2,4 @@
 Usefull Scripts for quick Automation
 
 
-These scripts are free too use :) Enjoy! → in progress
+These scripts are free too use :) Enjoy!
